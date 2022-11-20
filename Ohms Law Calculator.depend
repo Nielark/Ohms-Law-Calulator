@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1655634657 source:c:\users\mark daniel\desktop\c++ projects\ohms law calculator\main.cpp
+	<iostream>
+	<stdlib.h>
+	<cstdlib>
+
